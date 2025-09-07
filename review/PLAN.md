@@ -1,0 +1,5 @@
+- To choose 1-2 models to apply QLORA to. (The models will have to have a public implementation or should be easy to implement, as we will be running it on a NVIDIA Jetson Nano container emulator).
+- To choose 1-2 unique/novel innovative methods of applying QLORA. (From the README/GOALS)
+- To choose one hardware component to implement this on. (1 model and 1 innovative method. And compare metrics).
+- Most likely will be running proof of concept on emulator of Jetson Nano. Then deploy many of that container into a VM. Then we can show that usually a VM could have done only 1 training process, but can now do n trainings at the same time due to the lightweight container.
+- To create a website using NextJS, TailwindCSS, Typescript, ShadCN, Aceternity (frontend) and FastAPI (backend). We will be providing Training as a Service (TaaS) to train supported video models using QLora. User can login and go to the dashboard. Add a new model and train it by uploading dataset and waiting. Afterwards, they get the API endpoint for orchestration.

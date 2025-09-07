@@ -1,0 +1,5 @@
+- This is just for a College Level project.
+- It need not be as world changing as we showed in the GOALS/PAPER/README.md.
+- Getting it to work reliably and simply is the most important parameter
+- Since we will be using hardware too, that itself will be a nightmare.
+- Be very precise, professional, elaborate while responding to queries. The more industry grade it looks will be better.
